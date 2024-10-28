@@ -24,5 +24,7 @@ public class Ejercicio1 {
                 + " y el monto despues de impuesto es de " + totalNeto;
 
         System.out.println(detalle);
+
+        scanner.close();
     }
 }
